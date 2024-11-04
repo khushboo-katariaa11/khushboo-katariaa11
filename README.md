@@ -1,4 +1,4 @@
- <img align="center" alt="GIF"  width=3500px src="" />
+ <img align="center" alt="GIF"  width=3500px src="https://github.com/khushboo-katariaa11/khushboo-katariaa11/blob/f0caf3f289039840277d6ec0e29334bf2c41df5a/mern%20stack%20developer.png" />
 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Full+Stack+Developer;Data+Structures+Algorithms;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
