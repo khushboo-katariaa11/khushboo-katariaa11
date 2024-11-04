@@ -86,9 +86,7 @@ The way technology shapes our lives fascinates me, and I’m excited to be a par
 
 
 
-<h2 align="center" >🐍Snake Eating My Contribution 🐍</h2><p align="center">
-<a> <img src="https://raw.githubusercontent.com/khushboo-katariaa11/khushboo-katariaa11/output/snake.svg" alt="Snake animation" />
-</a> 
+
 
 <h3 align="center" >Show some ❤️ by starring some of the repositories!</h3>
 
