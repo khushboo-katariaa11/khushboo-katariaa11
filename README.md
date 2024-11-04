@@ -1,4 +1,6 @@
+ <img align="center" alt="GIF"  width=3500px src="" />
 
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Full+Stack+Developer;Data+Structures+Algorithms;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
 <p align="left"> 
 
