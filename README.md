@@ -1,8 +1,9 @@
  <img align="center" alt="GIF"  width=3500px src="https://github.com/khushboo-katariaa11/khushboo-katariaa11/blob/f0caf3f289039840277d6ec0e29334bf2c41df5a/mern%20stack%20developer.png" />
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Full+Stack+Developer;Data+Structures+Algorithms;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
-<p align="left"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36D2DF&size=28&center=false&vCenter=true&width=800&lines=🚀+Data+Scientist+in+the+Making;🔍+Exploring+ML%2C+NLP+%26+AI;💻+Full-Stack+AI+App+Developer;🏆+2x+Hackathon+Winner+%7C+4x+Finalist;📊+From+MERN+Stack+to+Machine+Learning+%E2%9C%85)](https://git.io/typing-svg)
+<p align="left">
+
 
 
 <br>
@@ -22,9 +23,35 @@
 
 ###
 
-<p ><i> I am Khushboo kataria, an ambitious Full-Stack developer currently  pursuing an undergraduate degree in Computer Science . As I navigate the exciting journey toward graduation in 2026, fueled by my passion for technology and its transformative impact on the world.
-The way technology shapes our lives fascinates me, and I’m excited to be a part of that change. I’ve been honing my skills in Data Structures and Algorithms (C++), Web Development (MERN Stack: MongoDB, Express.js, React.js, Node.js), Git for version control, and Python for scripting. While I’m still expanding my technical expertise, my drive to learn and grow is what sets me apart.
-</i></p>
+<i>
+I'm Khushboo Kataria, an enthusiastic and curious Computer Science undergraduate at Deen Dayal Upadhyaya College (University of Delhi). My journey started with solving algorithmic puzzles in C++, then building interactive UIs and APIs with the MERN stack — but everything changed when I discovered the power of data.
+
+My fascination with how insights emerge from messy datasets led me to explore Machine Learning, Deep Learning, and NLP. I've built regression models, classification systems, and even deployed full-stack AI apps using Flask, Streamlit, and Docker — with a touch of AWS magic.
+
+My projects aim for real-world impact — and that passion has translated into recognition.
+</i>
+
+---
+
+### 🏆 <i>Hackathon Highlights</i>
+
+<i>
+• 🥇 1st Place – Vihaan 8.0 Hackathon @ DTU (from 2000+ teams)  
+• 🥉 2nd Runner-Up – HackWithGujarat 2025 (from 600+ teams)  
+• 🏅 Finalist – GeekVerse, TechGenesis 2.0, Build with India, and more  
+</i>
+
+---
+
+### 💡 <i>What I'm Passionate About</i>
+
+<i>
+• Machine Learning & Deep Learning  
+• Natural Language Processing (NLP)  
+• Generative & Agentic AI  
+• Full-Stack AI App Development  
+• Model Deployment with MLflow, Docker & AWS  
+</i>
 
 ###
 
@@ -37,25 +64,17 @@ The way technology shapes our lives fascinates me, and I’m excited to be a par
  <br>
 
 
-**Languages and Tools:**
-<br>
+
+### 🛠️ <i>Languages and Tools</i>
+
+<code><img height="40" src="https://skillicons.dev/icons?i=python&theme=light" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=cpp&theme=light" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=html&theme=light" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=css&theme=light" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=js&theme=light" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,git,figma" /></code><br><br>
 
 
-<code><img height = "40" src = "https://skillicons.dev/icons?i=cpp&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=python&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=html&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=css&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=js&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=git&theme=light" ></code><br><br>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=mongodb&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=express&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=react" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=nodejs" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=tailwind" ></code><br><br>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=gcp&theme=light" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=vscode&theme=light" ></code>
-
-<code><img height = "40" src = "https://skillicons.dev/icons?i=figma&theme=light" ></code>
 
 
 
@@ -66,7 +85,6 @@ The way technology shapes our lives fascinates me, and I’m excited to be a par
 <p align="left">
 <a href="https://linkedin.com/in/khushbookataria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushbookatariaa" height="30" width="40" /></a>
 
-<a href="https://leetcode.com/u/khushbookataria11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushbookatariaa" height="30" width="40" /></a>
 
 </p>
 <br>
