@@ -1,6 +1,8 @@
  <img align="center" alt="GIF"  width=3500px src="https://github.com/khushboo-katariaa11/khushboo-katariaa11/blob/f0caf3f289039840277d6ec0e29334bf2c41df5a/mern%20stack%20developer.png" />
 
  
+[![An image of @khushbookatariaa11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushbookatariaa11)](https://holopin.io/@khushbookatariaa11)
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36D2DF&size=28&center=false&vCenter=true&width=800&lines=🚀+Data+Scientist+in+the+Making;🔍+Exploring+ML%2C+NLP+%26+AI;💻+Full-Stack+AI+App+Developer;🏆+2x+Hackathon+Winner+%7C+4x+Finalist;📊+From+MERN+Stack+to+Machine+Learning+%E2%9C%85)](https://git.io/typing-svg)
 <p align="left">
 
